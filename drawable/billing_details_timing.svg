@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="phone-call" transform="translate(-0.078)">
+    <circle id="Ellipse_333" data-name="Ellipse 333" cx="17" cy="17" r="17" transform="translate(0.078)" fill="#ffeecd"/>
+    <g id="clock_1_" data-name="clock (1)" transform="translate(7.079 7)">
+      <path id="Path_22946" data-name="Path 22946" d="M10,1a9,9,0,1,0,9,9,9,9,0,0,0-9-9Zm0,16.364A7.364,7.364,0,1,1,17.364,10,7.364,7.364,0,0,1,10,17.364Z" transform="translate(0)" fill="#dfa32a"/>
+      <path id="Path_22947" data-name="Path 22947" d="M12.636,10.389V5.818a.818.818,0,1,0-1.636,0v4.909a.818.818,0,0,0,.24.578l2.455,2.455A.818.818,0,1,0,14.851,12.6Z" transform="translate(-1.818 -0.727)" fill="#dfa32a"/>
+    </g>
+  </g>
+</svg>

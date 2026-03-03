@@ -1,3 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="14.048" height="14.048" viewBox="0 0 14.048 14.048">
-  <path id="magnifiying-glass" d="M13.69,12.929,10.31,9.549a5.837,5.837,0,1,0-.761.761l3.38,3.379a.538.538,0,1,0,.761-.761ZM1.077,5.828A4.751,4.751,0,1,1,5.828,10.58,4.757,4.757,0,0,1,1.077,5.828Z" transform="translate(0.1 0.1)" fill="#8f8f8f" stroke="#707070" stroke-width="0.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="19.952" viewBox="0 0 20 19.952">
+  <g id="search" transform="translate(0 -0.616)">
+    <g id="Group_10031" data-name="Group 10031" transform="translate(0 0.616)">
+      <g id="Group_10030" data-name="Group 10030">
+        <path id="Path_22453" data-name="Path 22453" d="M8.893.616a8.869,8.869,0,1,0,8.893,8.869A8.891,8.891,0,0,0,8.893.616Zm0,16.28a7.411,7.411,0,1,1,7.435-7.411A7.432,7.432,0,0,1,8.893,16.9Z" transform="translate(0 -0.616)" fill="#c5cee0"/>
+      </g>
+    </g>
+    <g id="Group_10033" data-name="Group 10033" transform="translate(14.194 14.784)">
+      <g id="Group_10032" data-name="Group 10032">
+        <path id="Path_22454" data-name="Path 22454" d="M359.073,358.092l-4.451-4.428a.678.678,0,0,0-.956.961l4.451,4.428a.678.678,0,0,0,.956-.961Z" transform="translate(-353.466 -353.466)" fill="#c5cee0"/>
+      </g>
+    </g>
+  </g>
 </svg>

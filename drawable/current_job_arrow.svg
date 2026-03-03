@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <g id="Group_10433" data-name="Group 10433" transform="translate(-72 -45)">
+    <rect id="Rectangle_1348" data-name="Rectangle 1348" width="29" height="29" rx="14" transform="translate(72 45)" fill="#FFEECD"/>
+    <g id="Group_10435" data-name="Group 10435" transform="translate(-0.46 1)">
+      <g id="left_arrow" data-name="left arrow" transform="translate(84.46 53)">
+        <path id="Chevron_Right" d="M59.913,5.8l-4.866,4.864a.546.546,0,1,1-.773-.772l4.48-4.478L54.274.933a.547.547,0,1,1,.773-.772l4.866,4.864A.551.551,0,0,1,59.913,5.8Z" transform="translate(-54.113 -0.001)" fill="#292929"/>
+      </g>
+    </g>
+  </g>
+</svg>

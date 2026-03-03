@@ -1,0 +1,12 @@
+<svg id="clock" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+	<g id="Group_10700" data-name="Group 10700" transform="translate(6.462 3.253)">
+		<g id="Group_10699" data-name="Group 10699">
+			<path id="Path_25663" data-name="Path 25663" d="M239.2,123.756l-1.948-1.461V119.32a.541.541,0,0,0-1.082,0v3.246a.54.54,0,0,0,.216.433l2.164,1.623a.541.541,0,0,0,.649-.866Z" transform="translate(-236.169 -118.779)" fill="#dfa32a" stroke="#dfa32a" stroke-width="0.3"/>
+		</g>
+	</g>
+	<g id="Group_10702" data-name="Group 10702">
+		<g id="Group_10701" data-name="Group 10701">
+			<path id="Path_25664" data-name="Path 25664" d="M7,0a7,7,0,1,0,7,7A7.008,7.008,0,0,0,7,0ZM7,12.916A5.916,5.916,0,1,1,12.916,7,5.923,5.923,0,0,1,7,12.916Z" fill="#fff"/>
+		</g>
+	</g>
+</svg>
